@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Created To Create]]></title>
         <description><![CDATA[Created To Create]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/created-to-create/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 20:09:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 20:54:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/created-to-create/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Create always!]]></title>
-            <description><![CDATA[<h1>Create always!</h1>]]></description>
-            <link>undefinedcreate-always/index.html</link>
+            <title><![CDATA[its what you were designed to do]]></title>
+            <description><![CDATA[<article><h1>its what you were designed to do</h1><p>Create always!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f73123e-6b9e-4ca5-a594-44df231979a9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/created-to-create/create-always/index.html</link>
             <guid isPermaLink="false">243ab6e4-7809-448a-b755-1343330397bc</guid>
-            <pubDate>Sat, 05 Mar 2016 20:09:56 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 20:54:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
