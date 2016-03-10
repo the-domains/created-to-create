@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "It's never too late, it's never to early. You were created to create. Create then!"
-datePublished: '2016-03-05T20:55:14.444Z'
-dateModified: '2016-03-05T20:54:44.734Z'
+description: 'Create always!'
+datePublished: '2016-03-10T04:06:54.948Z'
+dateModified: '2016-03-10T04:06:30.314Z'
 title: its what you were designed to do
 author: []
 sourcePath: _posts/2016-03-05-create-always.md
@@ -22,6 +22,6 @@ url: create-always/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f73123e-6b9e-4ca5-a594-44df231979a9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be53c7fa2703e2848203000cc6da80e358dee59f.jpg)
 
 Create always!
